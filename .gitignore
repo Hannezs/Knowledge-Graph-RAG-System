@@ -58,3 +58,10 @@ milvus-local/volumes/
 temp_uploads/
 test_output.txt
 test_output_2.txt
+
+# Extra exclusions
+infrastructure/volumes/
+backend/models/
+*.patch
+backend/test_output*
+
