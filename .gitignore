@@ -65,3 +65,11 @@ backend/models/
 *.patch
 backend/test_output*
 
+
+# macOS resource forks
+._*
+
+
+# extra virtual environments
+.venv_mac/
+

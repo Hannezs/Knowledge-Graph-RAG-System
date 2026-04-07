@@ -1,5 +1,12 @@
 # 知识图谱与RAG问答系统 (Knowledge Graph & RAG System)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-3.x-4FC08D.svg?logo=vue.js" alt="Vue 3">
+  <img src="https://img.shields.io/badge/FastAPI-0.100+-009688.svg?logo=fastapi" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Milvus-Database-0D85D8.svg?logo=milvus" alt="Milvus">
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791.svg?logo=postgresql" alt="PostgreSQL">
+</p>
+
 本项目是一个结合了**知识图谱 (Knowledge Graph)**和**检索增强生成 (RAG, Retrieval-Augmented Generation)**的智能问答与信息抽取系统。支持用户上传文档资源，自动抽取实体与关系构建知识图谱，并支持基于向量数据库的自然语言问答交互。
 
 ## 🛠️ 技术栈 (Tech Stack)
